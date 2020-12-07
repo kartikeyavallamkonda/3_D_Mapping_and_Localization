@@ -1,0 +1,4 @@
+Work Plan for Dec:
+First juniors will learn how to use the turtlebot3 package in gazebo and learn how to use it.
+Second we will be using laser sensors to make a 2d map of an office world. We will be first manually moving the bot to map the office.
+Third, using slam to autonomously navigate in the unknown environment and map the world.
